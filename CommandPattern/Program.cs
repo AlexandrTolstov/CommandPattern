@@ -21,7 +21,6 @@ namespace CommandPattern
             pult.PressButton();
             pult.PressUndo();
 
-
             Console.Read();
         }
         interface ICommand
